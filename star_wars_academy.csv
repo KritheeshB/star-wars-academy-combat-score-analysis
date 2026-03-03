@@ -1,0 +1,16 @@
+Name,Age,Planet,Lightsaber_Color,Force_Sensitive,Midichlorian_Count,Combat_Score
+Anakin Skywalker,23.0,Tatooine,Blue,True,20000.0,95
+Ahsoka Tano,17.0,Shili,Green,True,13000.0,92
+Obi-Wan Kenobi,35.0,Stewjon,Blue,True,11000.0,89
+Luke Skywalker,19.0,Tatooine,Green,True,15000.0,85
+Leia Organa,19.0,Alderaan,,True,14500.0,80
+Rey,21.0,Jakku,Blue,True,14000.0,88
+Finn,,Unknown,,False,,70
+Poe Dameron,32.0,Yavin 4,,False,,73
+Mace Windu,40.0,Haruun Kal,Purple,True,12000.0,90
+Yoda,900.0,Dagobah,Green,True,17000.0,99
+Darth Vader,45.0,Tatooine,Red,True,20000.0,97
+Kylo Ren,,Chandrila,Red,True,16000.0,94
+Han Solo,29.0,Corellia,,False,,78
+Padme Amidala,27.0,Naboo,,False,,82
+Jyn Erso,26.0,Vallt,,False,,76
